@@ -1,6 +1,7 @@
 const path = require('path')
 const { createFilePath } = require(`gatsby-source-filesystem`)
 
+https://gist.github.com/ninalofrese/2b382b06c5e8fdfaa267eece441f3c3e#file-gatsby-node-js-L5-L16
 // You can delete this file if you're not using it
 // To add the slug field to each post
 exports.onCreateNode = ({ node, getNode, actions }) => {
